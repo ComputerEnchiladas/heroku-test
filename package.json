@@ -1,0 +1,7 @@
+{
+  "name": "heroku-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "mahrio": "^1.4.0"
+  }
+}
